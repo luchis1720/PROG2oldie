@@ -1,0 +1,11 @@
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\bin\Debug\lt_40_CentralTelefonica.exe.config
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\bin\Debug\lt_40_CentralTelefonica.exe
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\bin\Debug\lt_40_CentralTelefonica.pdb
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.csprojResolveAssemblyReference.cache
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.frmCentralTelefonica.resources
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.frmLlamador.resources
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.Properties.Resources.resources
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.csproj.GenerateResource.Cache
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.exe
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.pdb
+E:\TSP\Prog 2\guia 2018\lt_40_CentralTelefonica\obj\Debug\lt_40_CentralTelefonica.frmFacturacion.resources

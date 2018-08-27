@@ -1,0 +1,16 @@
+C:\Users\luchi\Desktop\guia 2018\guia 2018\bin\Debug\guia 2018.exe.config
+C:\Users\luchi\Desktop\guia 2018\guia 2018\obj\Debug\guia 2018.csprojResolveAssemblyReference.cache
+C:\Users\luchi\Desktop\guia 2018\guia 2018\bin\Debug\guia 2018.exe
+C:\Users\luchi\Desktop\guia 2018\guia 2018\bin\Debug\guia 2018.pdb
+C:\Users\luchi\Desktop\guia 2018\guia 2018\bin\Debug\Biblioteca.dll
+C:\Users\luchi\Desktop\guia 2018\guia 2018\bin\Debug\Biblioteca.pdb
+C:\Users\luchi\Desktop\guia 2018\guia 2018\obj\Debug\guia 2018.exe
+C:\Users\luchi\Desktop\guia 2018\guia 2018\obj\Debug\guia 2018.pdb
+E:\TSP\Prog 2\guia 2018\guia 2018\bin\Debug\guia 2018.exe.config
+E:\TSP\Prog 2\guia 2018\guia 2018\obj\Debug\guia 2018.exe
+E:\TSP\Prog 2\guia 2018\guia 2018\obj\Debug\guia 2018.pdb
+E:\TSP\Prog 2\guia 2018\guia 2018\bin\Debug\guia 2018.exe
+E:\TSP\Prog 2\guia 2018\guia 2018\bin\Debug\guia 2018.pdb
+E:\TSP\Prog 2\guia 2018\guia 2018\bin\Debug\Biblioteca.dll
+E:\TSP\Prog 2\guia 2018\guia 2018\bin\Debug\Biblioteca.pdb
+E:\TSP\Prog 2\guia 2018\guia 2018\obj\Debug\guia 2018.csprojResolveAssemblyReference.cache
